@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+.DS_Store
+
+# Internal planning documents (originals kept outside the repo)
+Schedule.xlsx
+CSCI_5942_Syllabus_Fall_2026.pdf
+*.xlsx

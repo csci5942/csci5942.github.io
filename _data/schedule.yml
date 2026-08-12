@@ -1,0 +1,144 @@
+# The course schedule. Each entry becomes one row of the table on /schedule/.
+#
+# Fields (all optional except `date` and `topic`):
+#   date       - shown in the first column, e.g. "8/25/26"
+#   topic      - lecture topic
+#   lead       - who is leading the lecture
+#   assignment - string; also accepts Markdown link syntax
+#
+# To add a row, copy an entry and edit it. To leave a cell blank, omit the field.
+#
+# Source: the Lecture Schedule table in CSCI_5942_Syllabus_Fall_2026.pdf
+# (version of August 12, 2026).
+
+- date: "8/20/26"
+  topic: "Introduction"
+  lead: "Heckman &amp; Zhao"
+  assignment: "A0 out"
+
+- date: "8/25/26"
+  topic: "Scaling Laws &amp; Model Codesign"
+  lead: "Heckman"
+
+- date: "8/27/26"
+  topic: "Model Architectures &amp; Trade-offs"
+  lead: "Heckman"
+  assignment: "A1 out"
+
+- date: "9/1/26"
+  topic: "ML Systems and MLOps"
+  lead: "Zhao"
+
+- date: "9/3/26"
+  topic: "Model Evaluation"
+  lead: "Heckman"
+  assignment: "A2 out"
+
+- date: "9/8/26"
+  topic: "Data Synthesis &amp; Curation"
+  lead: "Heckman"
+
+- date: "9/10/26"
+  topic: "Data Infrastructure I"
+  lead: "Zhao"
+
+- date: "9/15/26"
+  topic: "Data Infrastructure II"
+  lead: "Zhao"
+  assignment: "A3 out"
+
+- date: "9/17/26"
+  topic: "Training Systems I"
+  lead: "Zhao"
+
+- date: "9/22/26"
+  topic: "Training Systems II"
+  lead: "Zhao"
+
+- date: "9/24/26"
+  topic: "Training Systems III"
+  lead: "Zhao"
+  assignment: "A4 out"
+
+- date: "9/29/26"
+  topic: "Project Day"
+  lead: "Heckman &amp; Zhao"
+
+- date: "10/1/26"
+  topic: "Fine-tuning &amp; PEFT"
+  lead: "Heckman"
+
+- date: "10/6/26"
+  topic: "Inference Systems I"
+  lead: "Zhao"
+  assignment: "A5 out"
+
+- date: "10/8/26"
+  topic: "Reading Day (campus) &mdash; no class"
+
+- date: "10/13/26"
+  topic: "Inference Systems II"
+  lead: "Zhao"
+
+- date: "10/15/26"
+  topic: "Inference Systems III"
+  lead: "Zhao"
+
+- date: "10/20/26"
+  topic: "Model Optimizations for Inference"
+  lead: "Heckman"
+  assignment: "A6 out"
+
+- date: "10/22/26"
+  topic: "Model Quantization"
+  lead: "Heckman"
+
+- date: "10/27/26"
+  topic: "Post-training I: RLHF &amp; GRPO"
+  lead: "Heckman"
+
+- date: "10/29/26"
+  topic: "Post-training II: RLVR"
+  lead: "Heckman"
+
+- date: "11/3/26"
+  topic: "Agentic AI"
+  lead: "Zhao"
+  assignment: "A7 out"
+
+- date: "11/5/26"
+  topic: "Prompt Engineering &amp; Tools"
+  lead: "Heckman"
+
+- date: "11/10/26"
+  topic: "Sustainability and ML"
+  lead: "Zhao"
+
+- date: "11/12/26"
+  topic: "Applications: Robotics"
+  lead: "Heckman"
+
+- date: "11/17/26"
+  topic: "Applications: Vision at Scale"
+  lead: "Heckman"
+
+- date: "11/19/26"
+  topic: "Applications: GeoAI"
+  lead: "Heckman"
+
+- date: "11/24/26"
+  topic: "Fall break &mdash; no class"
+
+- date: "11/26/26"
+  topic: "Fall break &mdash; no class"
+
+- date: "12/1/26"
+  topic: "Last Lecture"
+  lead: "Heckman &amp; Zhao"
+
+- date: "12/3/26"
+  topic: "Poster Session"
+  lead: "Heckman &amp; Zhao"
+
+- date: "12/9/26"
+  topic: "Final Exam (Wednesday)"

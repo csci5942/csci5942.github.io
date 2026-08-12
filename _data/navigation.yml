@@ -1,0 +1,8 @@
+# The tabs in the masthead across the top of every page.
+main:
+  - title: "Overview"
+    url: /
+  - title: "Logistics"
+    url: /logistics/
+  - title: "Schedule"
+    url: /schedule/

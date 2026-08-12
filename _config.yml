@@ -1,0 +1,73 @@
+# ---------------------------------------------------------------------------
+# Site settings
+# ---------------------------------------------------------------------------
+title: "CSCI 5942"
+title_separator: "|"
+subtitle: "AI Engineering &middot; Fall 2026"
+description: >-
+  CSCI 5942: AI Engineering at the University of Colorado Boulder. Engineering
+  and analyzing the trade-offs in large-scale AI systems, from data curation and
+  distributed training through inference optimization and LLM scaling.
+url: "https://csci5942.github.io"   # no trailing slash
+baseurl: ""                          # empty: this is an org site served at the root
+repository: "csci5942/csci5942.github.io"
+locale: "en-US"
+
+# ---------------------------------------------------------------------------
+# Theme
+# ---------------------------------------------------------------------------
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
+# ---------------------------------------------------------------------------
+# Build settings
+# ---------------------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+include:
+  - .htaccess
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - node_modules
+  - .github
+  # Internal planning documents. These must never be copied into _site, which
+  # is published verbatim to GitHub Pages.
+  - "*.xlsx"
+  - "*.docx"
+  - Schedule.xlsx
+
+# ---------------------------------------------------------------------------
+# Defaults
+#
+# Every page gets the single-column layout with no author sidebar, which keeps
+# the site close in spirit to a plain course page rather than a blog.
+# ---------------------------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
+      toc: false
+      sidebar:
+        nav: false

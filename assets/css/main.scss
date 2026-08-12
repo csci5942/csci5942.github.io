@@ -1,0 +1,59 @@
+---
+# Front matter (even empty) is required so Jekyll processes this file.
+---
+
+@charset "utf-8";
+
+// 1. Theme skin.
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+// 2. Overrides. These must sit between the skin and the main partials so that
+//    the theme's own rules are compiled using these values.
+//    CU Boulder palette: gold #CFB87C, black #000000, dark gray #565A5C.
+$primary-color: #565a5c;
+$link-color: #8a7440; // darkened CU gold; ~4.9:1 on white, passes WCAG AA
+$link-color-hover: #000000;
+$link-color-visited: #6f5d34;
+$masthead-link-color: #000000;
+$masthead-link-color-hover: #8a7440;
+
+// 3. Theme partials.
+@import "minimal-mistakes";
+
+// 4. Site-specific tweaks, applied after the theme.
+
+// A gold rule under the masthead, echoing CU Boulder's branding.
+.masthead {
+  border-bottom: 3px solid #cfb87c;
+}
+
+// The schedule table on /schedule/.
+.course-schedule {
+  width: 100%;
+  font-size: $type-size-6;
+
+  th {
+    background-color: #f2f3f3;
+    border-bottom: 2px solid #cfb87c;
+    text-align: left;
+  }
+
+  td {
+    vertical-align: top;
+  }
+
+  // Keep dates and lecturer names on one line so rows stay easy to scan.
+  .schedule-date,
+  .schedule-lead {
+    white-space: nowrap;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.1em;
+  }
+
+  li {
+    margin-bottom: 0.15em;
+  }
+}
