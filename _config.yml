@@ -45,6 +45,8 @@ exclude:
   - README.md
   - node_modules
   - .github
+  # Site tooling, not site content.
+  - bin
   # Internal planning documents. These must never be copied into _site, which
   # is published verbatim to GitHub Pages.
   - "*.xlsx"

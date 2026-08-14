@@ -1,15 +1,14 @@
 # The course schedule. Each entry becomes one row of the table on /schedule/.
 #
+# GENERATED FILE. Do not edit by hand: bin/sync-syllabus.py regenerates it from
+# the Lecture Schedule table in the syllabus (../syllabus/main.tex, Overleaf).
+# To change the schedule, change the syllabus and re-run the script.
+#
 # Fields (all optional except `date` and `topic`):
 #   date       - shown in the first column, e.g. "8/25/26"
 #   topic      - lecture topic
 #   lead       - who is leading the lecture
 #   assignment - string; also accepts Markdown link syntax
-#
-# To add a row, copy an entry and edit it. To leave a cell blank, omit the field.
-#
-# Source: the Lecture Schedule table in CSCI_5942_Syllabus_Fall_2026.pdf
-# (version of August 12, 2026).
 
 - date: "8/20/26"
   topic: "Introduction"

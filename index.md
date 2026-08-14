@@ -26,7 +26,8 @@ This website is the source of truth for the schedule and readings.
 - **Assignment submission:** Gradescope
 
 See the [logistics page]({{ "/logistics/" | relative_url }}) for course structure,
-grading, and policies.
+grading, and policies, or read the full
+[syllabus]({{ "/assets/syllabus.pdf" | relative_url }}) (PDF).
 
 ## Instructors
 

@@ -6,3 +6,5 @@ main:
     url: /logistics/
   - title: "Schedule"
     url: /schedule/
+  - title: "Syllabus"
+    url: /assets/syllabus.pdf

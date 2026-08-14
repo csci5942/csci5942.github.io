@@ -6,8 +6,9 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-This page summarizes the course syllabus (version of August 12, 2026). Where the
-two disagree, the syllabus governs.
+This page summarizes the
+[course syllabus]({{ "/assets/syllabus.pdf" | relative_url }}) (PDF). Where the two
+disagree, the syllabus governs.
 
 ## Communication
 

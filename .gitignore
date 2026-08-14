@@ -10,3 +10,6 @@ vendor/
 Schedule.xlsx
 CSCI_5942_Syllabus_Fall_2026.pdf
 *.xlsx
+
+# Python bytecode from bin/
+__pycache__/
