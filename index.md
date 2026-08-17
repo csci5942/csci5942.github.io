@@ -42,4 +42,7 @@ Available by [appointment](https://basil.colorado.edu/contact/) \
 ## TAs / Course Staff
 
 **Nolan Brady** \
-Email: [Nolan.Brady@colorado.edu](mailto:Nolan.Brady@colorado.edu)
+Email: [Nolan.Brady@colorado.edu](mailto:Nolan.Brady@colorado.edu) \
+Office Hours: \
+&emsp;Tuesday/Thursday: 10:00 AM - 11:00 AM \
+&emsp;Zoom Link: [https://cuboulder.zoom.us/j/2980052323](https://cuboulder.zoom.us/j/2980052323)
