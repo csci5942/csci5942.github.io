@@ -36,7 +36,7 @@ Office: ECES 130 \
 
 **[Mark Zhao](https://home.cs.colorado.edu/~myzhao/)** \
 Office: ECCR 1B26, Engineering Center \
-Available by [appointment](https://basil.colorado.edu/contact/) \
+Office Hours: Mondays, 1:15 - 2:15 PM, ECCR 1B26 \
 [BASIL Research Group](https://basil.colorado.edu)
 
 ## TAs / Course Staff
