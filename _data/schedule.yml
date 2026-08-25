@@ -20,7 +20,7 @@
   topic: "Scaling Laws &amp; Model Codesign"
   lead: "Heckman"
   reading: "Hoffmann et al., Training Compute-Optimal Large Language Models  arXiv:2203.15556 (Chinchilla); Schaeffer, Miranda & Koyejo, Are Emergent Abilities of Large Language Models a Mirage?  arXiv:2304.15004"
-  slides: "[slides/L1-scaling-laws.pdf]"
+  slides: "[Slides](/slides/L1-scaling-laws.pdf)"
 
 - date: "8/27/26"
   topic: "Model Architectures &amp; Trade-offs"
