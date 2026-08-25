@@ -23,7 +23,7 @@ The schedule below is tentative and will be updated as the semester progresses.
       <td class="schedule-lead">{{ row.lead }}</td>
       <td>{{ row.assignment | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td>
       <td>{{ row.reading }}</td>
-      <td>{{ row.slides }}</td>
+      <td>{{ row.slides | markdownify }}</td>
     </tr>
     {%- endfor %}
   </tbody>
