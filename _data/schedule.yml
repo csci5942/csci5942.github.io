@@ -27,6 +27,7 @@
   lead: "Heckman"
   assignment: "A1 out"
   reading: "DeepSeek-AI, DeepSeek-V3 Technical Report (architecture sections only)  arXiv:2412.19437; Ainslie et al., GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints arXiv:2305.13245"
+  slides: "[Slides](/slides/L2-architectures.pdf)"
 
 - date: "9/1/26"
   topic: "ML Systems and MLOps"

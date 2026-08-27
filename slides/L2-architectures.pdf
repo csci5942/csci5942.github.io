@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="slidev:version" content="0.50.0">
+<link rel="icon" href="https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png">
+<title>Architectures - Slidev</title>
+<meta name="description" content="CSCI 5942 AI Engineering, Fall 2026. Lecture 2.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700:wght@200;400;600&family=Source+Serif+4:wght@400;500;600:wght@200;400;600&family=JetBrains+Mono:wght@400;500:wght@200;400;600&display=swap" type="text/css">
+  <script type="module" crossorigin src="/csci7000-fa26-lec02-architectures/assets/index-BlfVFhi1.js"></script>
+  <link rel="modulepreload" crossorigin href="/csci7000-fa26-lec02-architectures/assets/modules/vue-C4Ha_vws.js">
+  <link rel="modulepreload" crossorigin href="/csci7000-fa26-lec02-architectures/assets/modules/shiki-JDpjUI_o.js">
+  <link rel="stylesheet" crossorigin href="/csci7000-fa26-lec02-architectures/assets/modules/shiki-BLtp71fo.css">
+  <link rel="stylesheet" crossorigin href="/csci7000-fa26-lec02-architectures/assets/index-D873o46-.css">
+</head>
+<body>
+  <div id="app"></div>
+  <div id="mermaid-rendering-container"></div>
+  
+</body>
+</html>
