@@ -17,7 +17,7 @@ command-line environments.
 
 **Lectures:** Tuesdays &amp; Thursdays, 2:00&ndash;3:15PM \
 **Location:** MBE 155 (Miramontes Baca Education Bldg) \
-**Office hours:** posted as an announcement in Slack
+**Office hours:** listed with each instructor and the TA below
 
 This website is the source of truth for the schedule and readings.
 
@@ -32,6 +32,7 @@ grading, and policies.
 
 **[Christoffer Heckman](https://www.ristoffer.ch)** \
 Office: ECES 130 \
+Office Hours: Mondays, 1:15 - 2:15 PM, ECES 130 \
 [ARPG Research Group](https://arpg.colorado.edu)
 
 **[Mark Zhao](https://home.cs.colorado.edu/~myzhao/)** \

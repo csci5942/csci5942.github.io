@@ -13,7 +13,7 @@ two disagree, the syllabus governs.
 
 **This website is the source of truth for the schedule and readings.**
 
-- **Slack** &mdash; announcements and discussion. Office hours are posted here as an announcement.
+- **Slack** &mdash; announcements and discussion.
 - **GitHub** &mdash; assignments are released in the course GitHub organization with starter code.
 - **Gradescope** &mdash; assignment submission.
 
