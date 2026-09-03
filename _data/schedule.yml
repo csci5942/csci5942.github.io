@@ -25,7 +25,7 @@
 - date: "8/27/26"
   topic: "Model Architectures &amp; Trade-offs"
   lead: "Heckman"
-  assignment: "A1 out"
+  assignment: "[A1 out](https://github.com/csci5942/assignments/tree/main/assignment-1)"
   reading: "DeepSeek-AI, DeepSeek-V3 Technical Report (architecture sections only)  arXiv:2412.19437; Ainslie et al., GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints arXiv:2305.13245"
   slides: "[Slides](/slides/L2-architectures.pdf)"
 
@@ -38,7 +38,8 @@
 - date: "9/3/26"
   topic: "Model Evaluation"
   lead: "Heckman"
-  assignment: "A1 due; A1 quiz in class; A2 out"
+  assignment: "A1 due; A1 quiz in class; [A2 out](https://github.com/csci5942/assignments/tree/main/assignment-2)"
+  slides: "[Slides](/slides/L4-evaluation.pdf)"
 
 - date: "9/8/26"
   topic: "Data Synthesis &amp; Curation"
