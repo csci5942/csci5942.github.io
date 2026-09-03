@@ -39,6 +39,7 @@
   topic: "Model Evaluation"
   lead: "Heckman"
   assignment: "A1 due; A1 quiz in class; [A2 out](https://github.com/csci5942/assignments/tree/main/assignment-2)"
+  reading: "Zheng et al., Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena  arXiv:2306.05685; Miller, Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations  arXiv:2411.00640"
   slides: "[Slides](/slides/L4-evaluation.pdf)"
 
 - date: "9/8/26"
