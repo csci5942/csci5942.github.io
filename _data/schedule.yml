@@ -45,6 +45,8 @@
 - date: "9/8/26"
   topic: "Data Synthesis &amp; Curation"
   lead: "Heckman"
+  reading: "Penedo et al., The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale  arXiv:2406.17557. Optional: Li et al., DataComp-LM: In Search of the Next Generation of Training Sets for Language Models  arXiv:2406.11794; Xie et al., DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining  arXiv:2305.10429; Wang et al., Self-Instruct: Aligning Language Models with Self-Generated Instructions  arXiv:2212.10560; Shumailov et al., The Curse of Recursion: Training on Generated Data Makes Models Forget  arXiv:2305.17493; Gunasekar et al., Textbooks Are All You Need  arXiv:2306.11644"
+  slides: "[Slides](/slides/L5-data-synthesis.pdf)"
 
 - date: "9/10/26"
   topic: "Data Infrastructure I"
