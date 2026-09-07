@@ -19,14 +19,14 @@
 - date: "8/25/26"
   topic: "Scaling Laws &amp; Model Codesign"
   lead: "Heckman"
-  reading: "Hoffmann et al., Training Compute-Optimal Large Language Models  arXiv:2203.15556 (Chinchilla); Schaeffer, Miranda & Koyejo, Are Emergent Abilities of Large Language Models a Mirage?  arXiv:2304.15004"
+  reading: "Hoffmann et al., Training Compute-Optimal Large Language Models  arXiv:2203.15556 (Chinchilla); Schaeffer, Miranda & Koyejo, Are Emergent Abilities of Large Language Models a Mirage?  arXiv:2304.15004. Optional: Kaplan et al., Scaling Laws for Neural Language Models  arXiv:2001.08361; Muennighoff et al., Scaling Data-Constrained Language Models  arXiv:2305.16264; Grattafiori et al., The Llama 3 Herd of Models  arXiv:2407.21783; Sardana et al., Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws  arXiv:2401.00448"
   slides: "[Slides](/slides/L01-scaling-laws.pdf)"
 
 - date: "8/27/26"
   topic: "Model Architectures &amp; Trade-offs"
   lead: "Heckman"
   assignment: "[A1 out](https://github.com/csci5942/assignments/tree/main/assignment-1)"
-  reading: "DeepSeek-AI, DeepSeek-V3 Technical Report (architecture sections only)  arXiv:2412.19437; Ainslie et al., GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints arXiv:2305.13245"
+  reading: "DeepSeek-AI, DeepSeek-V3 Technical Report (architecture sections only)  arXiv:2412.19437; Ainslie et al., GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints arXiv:2305.13245. Optional: Shazeer, Fast Transformer Decoding: One Write-Head is All You Need  arXiv:1911.02150; Fedus et al., Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity  arXiv:2101.03961; Jiang et al., Mixtral of Experts  arXiv:2401.04088; Gu and Dao, Mamba: Linear-Time Sequence Modeling with Selective State Spaces  arXiv:2312.00752; Su et al., RoFormer: Enhanced Transformer with Rotary Position Embedding  arXiv:2104.09864"
   slides: "[Slides](/slides/L02-architectures.pdf)"
 
 - date: "9/1/26"
@@ -39,7 +39,7 @@
   topic: "Model Evaluation"
   lead: "Heckman"
   assignment: "A1 due; A1 quiz in class; [A2 out](https://github.com/csci5942/assignments/tree/main/assignment-2)"
-  reading: "Zheng et al., Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena  arXiv:2306.05685; Miller, Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations  arXiv:2411.00640"
+  reading: "Zheng et al., Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena  arXiv:2306.05685; Miller, Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations  arXiv:2411.00640. Optional: Zhang et al., A Careful Examination of Large Language Model Performance on Grade School Arithmetic (GSM1k)  arXiv:2405.00332; Bhagia et al., Establishing Task Scaling Laws via Compute-Efficient Model Ladders  arXiv:2412.04403; Chiang et al., Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference  arXiv:2403.04132; Magnusson et al., Paloma: A Benchmark for Evaluating Language Model Fit  arXiv:2312.10523"
   slides: "[Slides](/slides/L04-evaluation.pdf)"
 
 - date: "9/8/26"
