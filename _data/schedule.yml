@@ -33,7 +33,7 @@
   topic: "ML Systems and MLOps"
   lead: "Zhao"
   reading: "[We Have No Idea How Models will Behave in Production until Production](https://arxiv.org/abs/2403.16795); [Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)"
-  slides: "[Slides](/slides/L03-ops-hw.pdf)"
+  slides: "[Slides](/slides/L03-ops-hw.pdf) | [Annotated](/slides/L03_ops_hw_annotated.pdf)"
 
 - date: "9/3/26"
   topic: "Model Evaluation"
@@ -51,6 +51,8 @@
 - date: "9/10/26"
   topic: "Data Infrastructure I"
   lead: "Zhao"
+  reading: "[Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://vldb.org/cidrdb/2021/lakehouse-a-new-generation-of-open-platforms-that-unify-data-warehousing-and-advanced-analytics.html)"
+  slides: "[Slides](slides/L06_data_infra.pdf)"
 
 - date: "9/15/26"
   topic: "Data Infrastructure II"
