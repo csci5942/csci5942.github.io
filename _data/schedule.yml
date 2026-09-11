@@ -58,6 +58,8 @@
   topic: "Data Infrastructure II"
   lead: "Zhao"
   assignment: "A2 due; A2 quiz in class; A3 out"
+  reading: "[Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://arxiv.org/abs/2108.09373)"
+  slides: "[Slides](/slides/L06_data_infra.pdf)"
 
 - date: "9/17/26"
   topic: "Training Systems I"
