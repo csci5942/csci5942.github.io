@@ -52,7 +52,7 @@
   topic: "Data Infrastructure I"
   lead: "Zhao"
   reading: "[Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://vldb.org/cidrdb/2021/lakehouse-a-new-generation-of-open-platforms-that-unify-data-warehousing-and-advanced-analytics.html)"
-  slides: "[Slides](slides/L06_data_infra.pdf)"
+  slides: "[Slides](/slides/L06_data_infra.pdf)"
 
 - date: "9/15/26"
   topic: "Data Infrastructure II"
