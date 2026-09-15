@@ -64,6 +64,9 @@
 - date: "9/17/26"
   topic: "Training Systems I"
   lead: "Zhao"
+  reading: "[The Ultra-Scale Playbook: Training LLMs on GPU Clusters - Section on Data Parallelism](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)"
+  slides: "[Slides](/slides/L07_training_systems.pdf)"
+
 
 - date: "9/22/26"
   topic: "Training Systems II"
