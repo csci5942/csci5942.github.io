@@ -9,7 +9,8 @@
 # To add a row, copy an entry and edit it. To leave a cell blank, omit the field.
 #
 # Source: the Lecture Schedule table in CSCI_5942_Syllabus_Fall_2026.pdf
-# (version of August 12, 2026).
+# (version of August 12, 2026), reconciled with the "Schedule" sheet of
+# "5942 Schedule.xlsx" on September 22, 2026.
 
 - date: "8/20/26"
   topic: "Introduction"
@@ -71,44 +72,48 @@
 - date: "9/22/26"
   topic: "Training Systems II"
   lead: "Zhao"
+  reading: "[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)"
+  reading: "[The Ultra-Scale Playbook: Training LLMs on GPU Clusters - Section on Tensor and Pipeline Parallelism](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)"
+  slides: "[Slides](/slides/L07_training_systems.pdf)"
 
 - date: "9/24/26"
   topic: "Training Systems III"
   lead: "Zhao"
+  reading: "[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)"
   assignment: "A3 due; A3 quiz in class; A4 out"
 
 - date: "9/29/26"
   topic: "Project Day"
-  lead: "Heckman &amp; Zhao"
+  lead: "Heckman"
 
 - date: "10/1/26"
   topic: "Fine-tuning &amp; PEFT"
   lead: "Heckman"
 
 - date: "10/6/26"
-  topic: "Inference Systems I"
-  lead: "Zhao"
+  topic: "Model Optimizations for Inference"
+  lead: "Heckman"
   assignment: "A4 due; A4 quiz in class; A5 out"
 
 - date: "10/8/26"
   topic: "Reading Day (campus) &mdash; no class"
 
 - date: "10/13/26"
-  topic: "Inference Systems II"
-  lead: "Zhao"
+  topic: "Model Quantization"
+  lead: "Heckman"
 
 - date: "10/15/26"
-  topic: "Inference Systems III"
+  topic: "Inference Systems I"
   lead: "Zhao"
 
 - date: "10/20/26"
-  topic: "Model Optimizations for Inference"
-  lead: "Heckman"
+  topic: "Inference Systems II"
+  lead: "Zhao"
   assignment: "A5 due; A5 quiz in class; A6 out"
 
 - date: "10/22/26"
-  topic: "Model Quantization"
-  lead: "Heckman"
+  topic: "Inference Systems III"
+  lead: "Zhao"
 
 - date: "10/27/26"
   topic: "Post-training I: RLHF &amp; GRPO"
