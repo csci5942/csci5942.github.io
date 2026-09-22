@@ -72,7 +72,6 @@
 - date: "9/22/26"
   topic: "Training Systems II"
   lead: "Zhao"
-  reading: "[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)"
   reading: "[The Ultra-Scale Playbook: Training LLMs on GPU Clusters - Section on Tensor and Pipeline Parallelism](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)"
   slides: "[Slides](/slides/L07_training_systems.pdf)"
 
