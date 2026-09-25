@@ -63,10 +63,13 @@ each assignment's 7 points.
 ### Mega Assignment (group project)
 
 A semester-long group build in place of an eighth assignment, on a topic you
-propose. Deliverables:
+propose. Teams are two people. You may work alone only when the project is part
+of your own research, and that case needs a named faculty advisor.
 
-- **Concept document (5 pts)** &mdash; what you will build, on what data and compute, and how you will know it worked.
-- **Pitch day (5 pts)** &mdash; a short presentation and defense of the plan.
+Deliverables:
+
+- **Concept document (5 pts)** &mdash; what you will build, on what data and compute, and how you will know it worked. Due Tuesday, October 13 at 11:59 PM.
+- **Pitch day (5 pts)** &mdash; a short presentation and defense of the plan, in class on Tuesday, October 27.
 - **Final submission (10 pts)** &mdash; code, README, and results, presented at the poster session on Thursday, December 3.
 
 ### Final Exam

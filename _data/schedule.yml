@@ -100,6 +100,7 @@
 - date: "10/13/26"
   topic: "Model Quantization"
   lead: "Heckman"
+  assignment: "Mega assignment concept document due"
 
 - date: "10/15/26"
   topic: "Inference Systems I"
@@ -115,11 +116,12 @@
   lead: "Zhao"
 
 - date: "10/27/26"
-  topic: "Post-training I: RLHF &amp; GRPO"
+  topic: "Mega Assignment Pitch Day"
   lead: "Heckman"
+  assignment: "Mega assignment pitches in class"
 
 - date: "10/29/26"
-  topic: "Post-training II: RLVR"
+  topic: "Post-training: RLHF, GRPO and RLVR"
   lead: "Heckman"
 
 - date: "11/3/26"
