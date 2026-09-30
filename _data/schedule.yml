@@ -5,6 +5,10 @@
 #   topic      - lecture topic
 #   lead       - who is leading the lecture
 #   assignment - string; also accepts Markdown link syntax
+#   reading    - string; also accepts Markdown link syntax
+#   on_deck    - the Socratic round robin for that day, each student by the fewest
+#                letters of their first name that tell them apart
+#   slides     - string; also accepts Markdown link syntax
 #
 # To add a row, copy an entry and edit it. To leave a cell blank, omit the field.
 #
@@ -90,12 +94,14 @@
   topic: "Fine-tuning &amp; PEFT"
   lead: "Heckman"
   reading: "Hu et al., LoRA: Low-Rank Adaptation of Large Language Models  arXiv:2106.09685. Optional: Dettmers et al., QLoRA: Efficient Finetuning of Quantized LLMs  arXiv:2305.14314; Sheng et al., S-LoRA: Serving Thousands of Concurrent LoRA Adapters  arXiv:2311.03285; Zhou et al., LIMA: Less Is More for Alignment  arXiv:2305.11206; Kulgod et al., Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving  arXiv:2602.17677"
+  on_deck: "Sa., Bl. C., Mi."
 
 - date: "10/6/26"
   topic: "Model Optimizations for Inference"
   lead: "Heckman"
   assignment: "A4 due; A4 quiz in class; A5 out"
   reading: "Chen et al., FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance  arXiv:2305.05176. Optional: Muennighoff et al., s1: Simple test-time scaling  arXiv:2501.19393; Ong et al., RouteLLM: Learning to Route LLMs with Preference Data  arXiv:2406.18665; Leviathan et al., Fast Inference from Transformers via Speculative Decoding  arXiv:2211.17192; Cai et al., Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads  arXiv:2401.10774"
+  on_deck: "Dav., Ja., Di."
 
 - date: "10/8/26"
   topic: "Reading Day (campus) &mdash; no class"
@@ -105,19 +111,23 @@
   lead: "Heckman"
   assignment: "Mega assignment concept document due"
   reading: "Lin et al., AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration  arXiv:2306.00978. Optional: Frantar et al., GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers  arXiv:2210.17323; Dettmers et al., LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale  arXiv:2208.07339; Xiao et al., SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models  arXiv:2211.10438; DeepSeek-AI, DeepSeek-V3 Technical Report (FP8 sections)  arXiv:2412.19437"
+  on_deck: "O., Dan., L."
 
 - date: "10/15/26"
   topic: "Inference Systems I"
   lead: "Zhao"
+  on_deck: "Ti., Ni., Ab."
 
 - date: "10/20/26"
   topic: "Inference Systems II"
   lead: "Zhao"
   assignment: "A5 due; A5 quiz in class; A6 out"
+  on_deck: "An. D., Te., Bl. D."
 
 - date: "10/22/26"
   topic: "Inference Systems III"
   lead: "Zhao"
+  on_deck: "Su., E., At."
 
 - date: "10/27/26"
   topic: "Mega Assignment Pitch Day"
@@ -128,35 +138,42 @@
   topic: "Post-training: RLHF, GRPO and RLVR"
   lead: "Heckman"
   reading: "Rafailov et al., Direct Preference Optimization: Your Language Model is Secretly a Reward Model  arXiv:2305.18290; DeepSeek-AI, DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning  arXiv:2501.12948. Optional: Ouyang et al., Training language models to follow instructions with human feedback (InstructGPT)  arXiv:2203.02155; Shao et al., DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models  arXiv:2402.03300; Ethayarajh et al., KTO: Model Alignment as Prospect Theoretic Optimization  arXiv:2402.01306; Bai et al., Constitutional AI: Harmlessness from AI Feedback  arXiv:2212.08073; Lambert et al., Tulu 3: Pushing Frontiers in Open Language Model Post-Training  arXiv:2411.15124"
+  on_deck: "No., Ne., Se."
 
 - date: "11/3/26"
   topic: "Agentic AI"
   lead: "Zhao"
   assignment: "A6 due; A6 quiz in class; A7 out"
+  on_deck: "Z., Ad., Bi."
 
 - date: "11/5/26"
   topic: "Prompt Engineering &amp; Tools"
   lead: "Heckman"
   reading: "Khattab et al., DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines  arXiv:2310.03714. Optional: Wang et al., Self-Consistency Improves Chain of Thought Reasoning in Language Models  arXiv:2203.11171"
+  on_deck: "Y., Jo., Ma."
 
 - date: "11/10/26"
   topic: "Sustainability and ML"
   lead: "Zhao"
+  on_deck: "Mo., H., Be."
 
 - date: "11/12/26"
   topic: "Applications: Robotics"
   lead: "Heckman"
   reading: "Black et al., π0: A Vision-Language-Action Flow Model for General Robot Control  arXiv:2410.24164. Optional: Kim et al., OpenVLA: An Open-Source Vision-Language-Action Model  arXiv:2406.09246; Brohan et al., RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  arXiv:2307.15818; Chi et al., Diffusion Policy: Visuomotor Policy Learning via Action Diffusion  arXiv:2303.04137; Zhao et al., Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (ACT)  arXiv:2304.13705"
+  on_deck: "Al., An. W., Sa."
 
 - date: "11/17/26"
   topic: "Applications: Vision at Scale"
   lead: "Heckman"
   reading: "Zhai et al., Sigmoid Loss for Language Image Pre-Training (SigLIP)  arXiv:2303.15343. Optional: Oquab et al., DINOv2: Learning Robust Visual Features without Supervision  arXiv:2304.07193; Radford et al., Learning Transferable Visual Models From Natural Language Supervision (CLIP)  arXiv:2103.00020; Wang et al., Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution  arXiv:2409.12191; Hu et al., GAIA-1: A Generative World Model for Autonomous Driving  arXiv:2309.17080; NVIDIA, Cosmos World Foundation Model Platform for Physical AI  arXiv:2501.03575"
+  on_deck: "Bl. C., Mi., Dav."
 
 - date: "11/19/26"
   topic: "Applications: GeoAI"
   lead: "Heckman"
   reading: "Lam et al., GraphCast: Learning skillful medium-range global weather forecasting  arXiv:2212.12794. Optional: Bodnar et al., A Foundation Model for the Earth System (Aurora)  arXiv:2405.13063; Cong et al., SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery  arXiv:2207.08051; Jakubik et al., Foundation Models for Generalist Geospatial Artificial Intelligence (Prithvi)  arXiv:2310.18660"
+  on_deck: "Ja., Di., O."
 
 - date: "11/24/26"
   topic: "Fall break &mdash; no class"

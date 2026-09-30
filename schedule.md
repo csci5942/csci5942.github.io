@@ -13,6 +13,7 @@ The schedule below is tentative and will be updated as the semester progresses.
       <th>Lead</th>
       <th>Assignment</th>
       <th>Reading</th>
+      <th>On deck</th>
       <th>Slides</th>
     </tr>
   </thead>
@@ -24,6 +25,7 @@ The schedule below is tentative and will be updated as the semester progresses.
       <td class="schedule-lead">{{ row.lead }}</td>
       <td>{{ row.assignment | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td>
       <td>{{ row.reading | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td>
+      <td>{{ row.on_deck }}</td>
       <td>{{ row.slides | markdownify | remove: "<p>" | remove: "</p>" | strip }}</td>
     </tr>
     {%- endfor %}
