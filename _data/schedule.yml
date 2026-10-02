@@ -94,6 +94,7 @@
 - date: "10/1/26"
   topic: "Fine-tuning &amp; PEFT"
   lead: "Heckman"
+  slides: "[Slides](/slides/L12-fine-tuning.pdf)"
   reading: "[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). Optional: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314); [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285); [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206); [Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving](https://arxiv.org/abs/2602.17677)"
   on_deck: "Sa., Bl. C., Mi."
 
