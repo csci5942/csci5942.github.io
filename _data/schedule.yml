@@ -102,7 +102,7 @@
   topic: "Model Optimizations for Inference"
   lead: "Heckman"
   assignment: "A4 due; A4 quiz in class; A5 out"
-  reading: "[FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176). Optional: [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393); [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665); [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192); [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)"
+  reading: "[FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176). Optional: [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393); [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665); [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192); [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774); [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)"
   on_deck: "Dav., Ja., Di."
 
 - date: "10/8/26"
