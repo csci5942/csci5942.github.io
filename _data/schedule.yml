@@ -156,7 +156,7 @@
   topic: "Prompt Engineering &amp; Tools"
   lead: "Heckman"
   reading: "[DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714). Optional: [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)"
-  on_deck: "Y., Jo., Ma."
+  on_deck: "Y., Al., Ma."
 
 - date: "11/10/26"
   topic: "Sustainability and ML"
@@ -168,7 +168,7 @@
   topic: "Applications: Robotics"
   lead: "Heckman"
   reading: "[π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164). Optional: [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246); [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818); [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137); [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705) (ACT)"
-  on_deck: "Al., An. W., Sa."
+  on_deck: "Jo., An. W., Sa."
 
 - date: "11/17/26"
   topic: "Applications: Vision at Scale"
