@@ -20,6 +20,7 @@
   topic: "Introduction"
   lead: "Heckman &amp; Zhao"
   assignment: "A0 out"
+  slides: "[Slides](/slides/L00-introduction.pdf)"
 
 - date: "8/25/26"
   topic: "Scaling Laws &amp; Model Codesign"
@@ -104,6 +105,7 @@
   assignment: "A4 due; A4 quiz in class; A5 out"
   reading: "[FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176). Optional: [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393); [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665); [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192); [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774); [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)"
   on_deck: "Dav., Ja., Di."
+  slides: "[Slides](/slides/L13-inference-time-compute.pdf)"
 
 - date: "10/8/26"
   topic: "Reading Day (campus) &mdash; no class"
