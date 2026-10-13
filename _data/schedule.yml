@@ -116,6 +116,7 @@
   assignment: "Mega assignment concept document due"
   reading: "[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978). Optional: [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323); [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339); [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438); [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) (FP8 sections)"
   on_deck: "O., Dan., L."
+  slides: "[Slides](/slides/L14-quantization.pdf)"
 
 - date: "10/15/26"
   topic: "Inference Systems I"
