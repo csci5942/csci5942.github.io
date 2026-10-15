@@ -139,7 +139,7 @@
 
 - date: "10/27/26"
   topic: "Mega Assignment Pitch Day"
-  lead: "Heckman"
+  lead: "Zhao"
   assignment: "Mega assignment pitches in class"
 
 - date: "10/29/26"
@@ -176,6 +176,7 @@
 - date: "11/17/26"
   topic: "Applications: Vision at Scale"
   lead: "Heckman"
+  assignment: "A7 due; A7 quiz in class"
   reading: "[Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) (SigLIP). Optional: [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193); [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (CLIP); [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191); [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080); [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575)"
   on_deck: "Bl. C., Mi., Dav."
 
