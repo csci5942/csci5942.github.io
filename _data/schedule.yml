@@ -20,6 +20,7 @@
   topic: "Introduction"
   lead: "Heckman &amp; Zhao"
   assignment: "A0 out"
+  slides: "[Slides](/slides/L00-introduction.pdf)"
 
 - date: "8/25/26"
   topic: "Scaling Laws &amp; Model Codesign"
@@ -94,15 +95,17 @@
 - date: "10/1/26"
   topic: "Fine-tuning &amp; PEFT"
   lead: "Heckman"
+  slides: "[Slides](/slides/L12-fine-tuning.pdf)"
   reading: "[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). Optional: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314); [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285); [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206); [Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving](https://arxiv.org/abs/2602.17677)"
   on_deck: "Sa., Bl. C., Mi."
 
 - date: "10/6/26"
-  topic: "Model Optimizations for Inference"
+  topic: "Inference-Time Compute"
   lead: "Heckman"
   assignment: "A4 due; A4 quiz in class; A5 out"
-  reading: "[FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176). Optional: [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393); [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665); [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192); [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)"
+  reading: "[FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176). Optional: [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393); [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665); [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192); [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774); [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)"
   on_deck: "Dav., Ja., Di."
+  slides: "[Slides](/slides/L13-inference-time-compute.pdf)"
 
 - date: "10/8/26"
   topic: "Reading Day (campus) &mdash; no class"
@@ -113,6 +116,7 @@
   assignment: "Mega assignment concept document due"
   reading: "[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978). Optional: [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323); [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339); [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438); [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) (FP8 sections)"
   on_deck: "O., Dan., L."
+  slides: "[Slides](/slides/L14-quantization.pdf)"
 
 - date: "10/15/26"
   topic: "Inference Systems I"
@@ -138,7 +142,7 @@
 
 - date: "10/27/26"
   topic: "Mega Assignment Pitch Day"
-  lead: "Heckman"
+  lead: "Zhao"
   assignment: "Mega assignment pitches in class"
 
 - date: "10/29/26"
@@ -158,7 +162,7 @@
   topic: "Prompt Engineering &amp; Tools"
   lead: "Heckman"
   reading: "[DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714). Optional: [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)"
-  on_deck: "Y., Jo., Ma."
+  on_deck: "Y., Al., Ma."
 
 - date: "11/10/26"
   topic: "Sustainability and ML"
@@ -170,11 +174,12 @@
   topic: "Applications: Robotics"
   lead: "Heckman"
   reading: "[π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164). Optional: [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246); [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818); [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137); [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705) (ACT)"
-  on_deck: "Al., An. W., Sa."
+  on_deck: "Jo., An. W., Sa."
 
 - date: "11/17/26"
   topic: "Applications: Vision at Scale"
   lead: "Heckman"
+  assignment: "A7 due; A7 quiz in class"
   reading: "[Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) (SigLIP). Optional: [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193); [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) (CLIP); [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191); [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080); [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575)"
   on_deck: "Bl. C., Mi., Dav."
 
