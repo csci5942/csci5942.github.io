@@ -45,5 +45,5 @@ Office Hours: Mondays, 1:15 - 2:15 PM, ECCR 1B26 \
 **Nolan Brady** \
 Email: [Nolan.Brady@colorado.edu](mailto:Nolan.Brady@colorado.edu) \
 Office Hours: \
-&emsp;Tuesday/Thursday: 10:00 AM - 11:00 AM \
+&emsp;Tuesday/Thursday: 11:00 AM - 12:00 PM \
 &emsp;Zoom Link: [https://cuboulder.zoom.us/j/2980052323](https://cuboulder.zoom.us/j/2980052323)
