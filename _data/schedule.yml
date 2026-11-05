@@ -163,13 +163,13 @@
   topic: "Prompt Engineering &amp; Tools"
   lead: "Heckman"
   reading: "[DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714). Optional: [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)"
-  on_deck: "Y., Al., Ma."
+  on_deck: "Y., Al., Ma., Mo."
 
 - date: "11/10/26"
   topic: "Sustainability and ML"
   lead: "Zhao"
   reading: "[Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/abs/2111.00364). Optional: [Carbon Emissions and Large Neural Network Training](https://arxiv.org/abs/2104.10350); [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/abs/2011.02839)"
-  on_deck: "Mo., H., Be."
+  on_deck: "H., Be."
 
 - date: "11/12/26"
   topic: "Applications: Robotics"
