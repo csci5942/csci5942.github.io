@@ -157,7 +157,7 @@
   assignment: "A6 due; A6 quiz in class; A7 out"
   reading: "[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629). Optional: [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793); [Agentix: An Efficient Serving Engine for LLM Agents as General Programs](https://www.usenix.org/system/files/nsdi26-luo.pdf)"
   on_deck: "Z., Ad., Bi."
-  slides: "[Slides](/slides/agentic_ai.pdf)"
+  slides: "[Slides](/slides/agentic_ai.pdf), [Annotated](/slides/agentic_annotated.pdf)"
 
 - date: "11/5/26"
   topic: "Prompt Engineering &amp; Tools"
@@ -170,6 +170,7 @@
   lead: "Zhao"
   reading: "[Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/abs/2111.00364). Optional: [Carbon Emissions and Large Neural Network Training](https://arxiv.org/abs/2104.10350); [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/abs/2011.02839)"
   on_deck: "Mo., H., Be."
+  slides: "[Slides](/slides/sustainability.pdf)"
 
 - date: "11/12/26"
   topic: "Applications: Robotics"
