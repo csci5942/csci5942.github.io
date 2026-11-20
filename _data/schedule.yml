@@ -191,6 +191,7 @@
 - date: "11/19/26"
   topic: "Applications: Robotics"
   lead: "Heckman"
+  slides: "[Slides](/slides/L25-robotics.pdf)"
   reading: "[π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164). Optional: [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246); [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818); [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137); [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705) (ACT); [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080); [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575)"
   on_deck: "Ja., Di., O."
 
